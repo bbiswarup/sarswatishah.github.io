@@ -9,8 +9,7 @@
   
   <h2>About Me</h2>
   <p>
-    Hello! I am John Doe, a researcher and educator in the field of Computer Science. I have a passion for 
-    learning and sharing knowledge with others.
+    I am a postdotoral fellow at the Institute of mathematics, UNAM, Mexico.
   </p>
 
   <h2>Research Interests</h2>
