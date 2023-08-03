@@ -35,7 +35,7 @@
   </p>
 
   <h2>My Photo</h2>
-  <img src=“[PN.PNG](https://github.com/sarswatishah/sshah/blob/main/PN.PNG) alt="Photo" width="200">
+  <![Alt Text](path/to/your/image.png)>
 
 </body>
 </html>
