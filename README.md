@@ -15,9 +15,10 @@ Sarswati Shah's Homepage
 
   <h2>Research Interests</h2>
   <ul>
-    <li>Artificial Intelligence</li>
-    <li>Data Science</li>
-    <li>Machine Learning</li>
+    <li>Hyperbolic Conservation Laws and Systems with Non-Conservative Products</li>
+    <li>Numerical Simulation and Riemann Problems</li>
+    <li>Geophysical Fluid Dynamics and Atmospheric Sciences</li>
+    <li>Multiphase Flow</li>
   </ul>
 
   <h2>Publications</h2>
