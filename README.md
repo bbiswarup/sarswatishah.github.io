@@ -5,7 +5,7 @@
   <title>My Academic Webpage</title>
 </head>
 <body>
-  <h1>Welcome to My Academic Webpage</h1>
+  <h1>Welcome!</h1>
   
   <h2>About Me</h2>
   <p>
