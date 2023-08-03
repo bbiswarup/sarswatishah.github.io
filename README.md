@@ -33,9 +33,9 @@ Mechanics, 116, 173-180 (2019).
 
   <h2>Contact Information</h2>
   <p>
-    Email: john.doe@example.com
+    Email: sarswatishah@im.unam.mx
     <br>
-    Phone: (123) 456-7890
+    Phone: 55 562-34389 ext. 303
   </p>
 
   <h2>My Photo</h2>
