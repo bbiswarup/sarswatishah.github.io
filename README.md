@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My Academic Webpage</title>
+  <title>Sarswati Shah's Homepage</title>
 </head>
 <body>
   <h1>Welcome!</h1>
