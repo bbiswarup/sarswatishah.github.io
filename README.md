@@ -4,8 +4,8 @@
 <head>
 Sarswati Shah's Homepage
 </head>
-<body>
-  <h1>Welcome!</h1>
+%<body>
+ % <h1>Welcome!</h1>
   
   <h2>About Me</h2>
   <p>
