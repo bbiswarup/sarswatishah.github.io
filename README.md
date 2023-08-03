@@ -4,9 +4,10 @@
 <head>
 Sarswati Shah's Homepage
 </head>
-%<body>
- % <h1>Welcome!</h1>
-  
+<body>
+ <h1>Welcome!</h1>
+  <!-- This is a comment in my README.md file -->
+
   <h2>About Me</h2>
   <p>
     I am a postdotoral fellow at the Institute of mathematics, UNAM, Mexico.
