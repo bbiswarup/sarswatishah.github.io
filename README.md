@@ -5,8 +5,8 @@
 Sarswati Shah's Homepage
 </head>
 <body>
- <h1>Welcome!</h1>
-  <!-- This is a comment in my README.md file -->
+
+  <!-- <h1>Welcome!</h1> -->
 
   <h2>About Me</h2>
   <p>
