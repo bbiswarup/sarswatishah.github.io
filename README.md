@@ -23,9 +23,12 @@ Sarswati Shah's Homepage
 
   <h2>Publications</h2>
   <p>
-    1. Doe, J., "Introduction to Machine Learning," Journal of AI Research, 2022.
+    1. Sarswati Shah, Randheer Singh, Collision of a steepened wave with a blast wave in dusty real
+reacting gases, Physics of Fluids, 31, 076103 (2019).
     <br>
-    2. Doe, J., Smith, A., "Deep Learning Techniques," Conference on Neural Networks, 2021.
+    2. Sarswati Shah, Randheer Singh, Evolution of singular surface and interaction with a strong
+shock in reacting polytropic gases using Lie group theory, International Journal of Non-Linear
+Mechanics, 116, 173-180 (2019).
   </p>
 
   <h2>Contact Information</h2>
