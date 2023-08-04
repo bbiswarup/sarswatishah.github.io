@@ -10,7 +10,7 @@ Sarswati Shah's Homepage
 
   <h2>About Me</h2>
   <p>
-    I am a postdotoral fellow at the Institute of mathematics, UNAM, Mexico.
+    I am a postdoctoral fellow at the Institute of Mathematics, UNAM, Mexico.
   </p>
 
   <h2>Research Interests</h2>
@@ -39,7 +39,7 @@ Mechanics, 116, 173-180 (2019).
   </p>
 
   <h2>My Photo</h2>
-  <img src=“(PN.PNG) alt="Photo" width="200">
+ <img src="PN.PNG" alt="Photo" width="200">
 
 </body>
 </html>
